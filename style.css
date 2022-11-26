@@ -51,16 +51,32 @@ nav span {
 }
 
 #mission {
-    
+    height: 700px;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg?_gl=1*pwb61j*_ga*NDA4NjkxNTcuMTY2MzQ4ODE3Mg..*_ga_3LRZM6TM9L*MTY2OTQzMDgzMC4xMjMuMS4xNjY5NDMwODM5LjUxLjAuMA..");
+    padding-top: 70px;
+}
+#mission .content {
+    margin: auto;
+    background-color: black;
+    width: 100%;
 }
 
+#store {
+    height: 700px;
+    width: 1000px;
+    margin: auto;
+    padding-top: 70px;
+}
 
+.item {
+    padding: 5px;
+}
 
-
-
-
-
-
+.item img {
+    height: 200px;
+    margin: 10px; 
+    display: block;
+}
 
 
 
